@@ -1,4 +1,4 @@
-# MySQL Document Store Demo (PHP + MySQL JSON)
+# MySQL Document Store Demo (PHP + MySQL com X DevApi JSON)
 
 Projeto de demonstração utilizando **PHP 8.2**, **MySQL 8.0** e **JSON
 Document Store**, implementando um pequeno CRUD com arquitetura **MVC
@@ -7,6 +7,10 @@ simples**.
 O objetivo do projeto é demonstrar como o **MySQL pode ser utilizado
 como um banco de documentos (NoSQL)** utilizando colunas JSON, mantendo
 compatibilidade com SQL tradicional.
+
+# MySQL X DevApi package compativel com PHP 8.2
+
+[php_mysql_xdevapi-8.0.29-8.2-ts-vs16-x64.zip](https://github.com/user-attachments/files/25849208/php_mysql_xdevapi-8.0.29-8.2-ts-vs16-x64.zip)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +44,7 @@ compatibilidade com SQL tradicional.
 # Tecnologias utilizadas
 
 -   PHP **8.2**
--   MySQL **8.0**
+-   MySQL **8.0** with X DevApi support NOSQL 
 -   JSON Document Store
 -   Bootstrap **5**
 -   PDO
@@ -238,6 +242,9 @@ Este projeto demonstra na prática:
 
 ------------------------------------------------------------------------
 
-# Autor
+# Funcionamento:
+<img width="1326" height="921" alt="image" src="https://github.com/user-attachments/assets/09820d82-d75a-44b5-9edb-469183d119bb" />
+
+# Autor: Marcio Costa
 
 Projeto criado para estudo e demonstração técnica.
